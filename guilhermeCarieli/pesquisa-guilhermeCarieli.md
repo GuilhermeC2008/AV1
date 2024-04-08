@@ -22,7 +22,7 @@ Nele, o projeto é criado, e podem-se criar **Branches**, que são versões do c
 
 ### O que é, e como funciona?
 
-O **Vscode** é um editore de código criado pela microsoft, em que pode fazer muitas coisas para ajudar no trabalho, sendo uma ferramenta simples mas que tem uma loja de extensões gigante, o que faz ele ser mais útil ainda
+O **Vscode** é um editor de código criado pela microsoft, em que pode fazer muitas coisas para ajudar no trabalho, sendo uma ferramenta simples mas que tem uma loja de extensões gigante, o que faz ele ser mais útil ainda
 
 Ele pode ser customizado, de um jeito que atenda seus gostos e necessidades, podendo ocultar itens na tela que não estão sendo úteis, ou não agradam, e podendo serem atribuídos atalhos de teclas, o que facilita ainda mais para um programados, sem ter que tirar a mão do teclado para fazer certas funções
 
